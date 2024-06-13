@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35005.142
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.ApiGateway", "DotNet8.ApiGateway\DotNet8.ApiGateway.csproj", "{84705E28-3E6B-4D13-B18B-B3248E290FBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.ApiGatewayOcelot", "DotNet8.ApiGatewayOcelot\DotNet8.ApiGatewayOcelot.csproj", "{84705E28-3E6B-4D13-B18B-B3248E290FBF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.Articles", "DotNet8.Articles\DotNet8.Articles.csproj", "{CFE7D9F0-2E46-4788-B8DB-F328EE1F92A9}"
 EndProject
