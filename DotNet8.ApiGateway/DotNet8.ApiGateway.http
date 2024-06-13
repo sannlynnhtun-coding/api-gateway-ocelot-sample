@@ -1,6 +1,0 @@
-@DotNet8.ApiGateway_HostAddress = http://localhost:5020
-
-GET {{DotNet8.ApiGateway_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -1,0 +1,14 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/writers",
+      "DownstreamPathTemplate": "/api/writers",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7265
+        }
+      ]
+    }
+  ]
+}

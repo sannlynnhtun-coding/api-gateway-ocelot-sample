@@ -1,0 +1,10 @@
+{
+  "Routes": [],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:7152"
+  },
+  "Includes": [
+    "ocelot.articles.json",
+    "ocelot.writers.json"
+  ]
+}
